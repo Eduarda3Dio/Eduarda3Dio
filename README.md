@@ -1,20 +1,20 @@
-"# Eduarda3Dio" 
+"# Eduarda3Dio" 💜
 
-## 💜 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logoColor=white" alt="SQL"/>
 </p>
 
-### 🌷 Data Analysis & Manipulação de Dados
+### Data Analysis & Manipulação de Dados
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
 
-### 📊 Visualização de Dados
+###  Visualização de Dados
 
 <p align="center">
   <img src="https://img.shields.io/badge/Matplotlib-6C3483?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
 
-### 🧠 Machine Learning
+###  Machine Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
@@ -38,3 +38,4 @@ avaliação de modelos e análise de resultados.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
+
