@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/Matplotlib-6C3483?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-B583D7?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+
 </p>
 
 ###  Machine Learning
@@ -31,7 +33,7 @@
 Atualmente aprofundando meus conhecimentos em Machine Learning,
 avaliação de modelos e análise de resultados.
 
-### 🛠️ Ambiente de Desenvolvimento & Versionamento
+### Ambiente de Desenvolvimento & Versionamento
 
 <p align="center">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
